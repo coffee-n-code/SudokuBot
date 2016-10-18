@@ -19,9 +19,9 @@ USER_ID=""
 ACCESS_TOKEN=""
 ```
 
-This next bit is insanely complicated: put the _userID_ you made for the bot
+This next bit is insanely complicated: put the __userID__ you made for the bot
 (they look something like "@username:matrix.org") inside the quotes beside
-_USER_ and the _access token_ inside the quotes beside _ACCESS_TOKEN_.
+__USER__ and the __access token__ inside the quotes beside __ACCESS_TOKEN__.
 
 ### BUT WAIT!! WHAT IF I DON'T KNOW MY ACCESS TOKEN?
 
@@ -62,9 +62,9 @@ Then, you can play the game with these commands:
 + `!sudoku solve`
 	+ Solves the puzzle for you and shows you the answer.
 + `!sudoku <row><col> <number>`
-	+ Where _row_ can be letters A-I
-	+ Where _col_ can be numbers 0-8; and
-	+ Where _number_ can be numbers 1-9
+	+ Where __row__ can be letters A-I
+	+ Where __col__ can be numbers 0-8; and
+	+ Where __number__ can be numbers 1-9
 
 I'm sure you cna take it from here 😉 
 
