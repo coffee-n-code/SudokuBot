@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "Compiling JavaScript..."
+
+if [[ $1 == "-w" ]]; then
+	tsc -w -p . &
+	sleep 2.5
+	echo "Watching files..."
+	nodemon --watch build ./build/main.js
+else
+	tsc -p .
+	echo "Nice. ✨"
+fi

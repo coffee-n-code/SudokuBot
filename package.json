@@ -1,0 +1,22 @@
+{
+	"name": "sudoku-bot",
+	"version": "1.0.0",
+	"description": "A matrix bot for playing sudoku as a group",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+			"url": "git+https://github.com/coffee-n-code/SudokuBot.git"
+	},
+	"author": "Graham Robertson",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/coffee-n-code/SudokuBot/issues"
+	},
+	"homepage": "https://github.com/coffee-n-code/SudokuBot#readme",
+	"dependencies": {
+		"matrix-js-sdk": "^0.6.3"
+	},
+	"devDependencies": {
+		"nodemon":"1.11.0"
+	}
+}
