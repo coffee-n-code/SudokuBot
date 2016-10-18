@@ -55,22 +55,22 @@ running, it will automatically accept the invite.
 
 Then, you can play the game with these commands:
 
-	+ `!sudoku new`
-		+ Starts a new game.
-		+ If there is already a game being played: *are you sure?* `!sudoku yes`
-	+ `!sudoku restart`
-	+ `!sudoku solve`
-		+ Solves the puzzle for you and shows you the answer.
-	+ `!sudoku <row><col> <number>`
-		+ Where _row_ can be letters A-I
-		+ Where _col_ can be numbers 0-8; and
-		+ Where _number_ can be numbers 1-9
++ `!sudoku new`
+	+ Starts a new game.
+	+ If there is already a game being played: *are you sure?* `!sudoku yes`
++ `!sudoku restart`
++ `!sudoku solve`
+	+ Solves the puzzle for you and shows you the answer.
++ `!sudoku <row><col> <number>`
+	+ Where _row_ can be letters A-I
+	+ Where _col_ can be numbers 0-8; and
+	+ Where _number_ can be numbers 1-9
 
 I'm sure you cna take it from here 😉 
 
 ## TODO:
 	
-	+ Make a script to login and generate CONFIG file for us.
-	+ Maybe make a bin/ folder?
-	+ Perhaps move the CONFIG file somewhere else?
-	+ Maybe an install script so we don't run the bot within repo folder?
++ Make a script to login and generate CONFIG file for us.
++ Maybe make a bin/ folder?
++ Perhaps move the CONFIG file somewhere else?
++ Maybe an install script so we don't run the bot within repo folder?
