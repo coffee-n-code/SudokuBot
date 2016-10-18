@@ -1,6 +1,6 @@
 # SudokuBot
 
-## Development setup:
+## Setup:
 
 ```
 $ ./setup
@@ -66,7 +66,7 @@ Then, you can play the game with these commands:
 	+ Where __col__ can be numbers 0-8; and
 	+ Where __number__ can be numbers 1-9
 
-I'm sure you cna take it from here 😉 
+I'm sure you can take it from here 😉 
 
 ## TODO:
 	
